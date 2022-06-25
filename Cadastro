@@ -1,0 +1,65 @@
+public class Cadastro {
+    private String usuario;
+    private int senha;
+    private int registro;
+    public String tipoLixo;
+    
+    public Cadastro(String usuario, int senha, int registro, String tipoLixo){
+        this.usuario = usuario;
+        this.senha = senha;
+        this.registro = registro;
+        this.tipoLixo = tipoLixo;
+    }
+    
+    public void criarCadastro(){
+        
+    }
+    
+    public void excluirCadastro(){
+        
+    }
+    
+    public void alterarSenha(){
+        
+    }
+    
+    public void logarSistema(){
+        
+    }
+    
+    public void sairSistema(){
+        
+    }
+    
+    private String getUsuario(){
+        return this.usuario;
+    }
+    
+    private int getSenha(){
+        return this.senha;
+    }
+    
+    private int getRegistro(){
+        return this.registro;
+    }
+    
+    public String getTipoLixo(){
+        return this.tipoLixo;
+    }
+    
+    private void setUsuario(String usuario){
+        this.usuario = usuario;
+    }
+    
+    private void setSenha(int senha){
+        this.senha = senha;
+    }
+    
+    private void setRegistro(int registro){
+        this.registro = registro;
+    }
+    
+    private void setTipoLixo(String tipoLixo){
+        this.tipoLixo = tipoLixo;
+    }
+}
