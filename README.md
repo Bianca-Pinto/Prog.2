@@ -17,6 +17,7 @@ O lixo é classificado em orgânico, recicláveis e não recicláveis.
 Os recicláveis podem ser perigosos ou não perigosos:
  - Perigosos: Lixo Eletrônico e Lixo Industrial
  - Não Perigosos: Lixo Domiciliar e Lixo Comercial
+ 
  Obs.: Em alguns casos, o lixo pode ser não reciclável.
  
 Já os não recicláveis são:
